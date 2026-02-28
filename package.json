@@ -1,0 +1,12 @@
+{
+  "name": "datdash",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated QA table sum with Playwright",
+  "scripts": {
+    "sum:tables": "node scripts/sum-tables.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
